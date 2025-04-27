@@ -1,7 +1,7 @@
 # Banking_app
 # SmartBank - A Modern Banking Web Application 🏦
 
-> Developed by **Malhar Vedak**
+> Developed by **Tanmoy Paul**
 
 ---
 
