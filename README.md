@@ -1,5 +1,4 @@
 # Banking_app
-# SmartBank - A Modern Banking Web Application 🏦
 
 
 
